@@ -8,6 +8,8 @@ output file will in the same folder like xxxx.csv
 Notice:
 only support x64 compile version and you should config the include and lib directory of the fbxsdk from autodesk
 
+you need to change the string name according to your first row of data created from Renderdoc
+
 
 
 
